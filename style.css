@@ -14,14 +14,17 @@
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     }
 }
-.card1 {
- width: 90%;
- max-width: 90%;
- padding: 1rem 0;
- border-radius: 20px;
- display: flex;
- justify-content: center;
- border: 0;
- background: #1d375efa;
-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+.container{
+
+    .card1 {
+     width: 100%;
+     max-width: 90%;
+     padding: 1rem 0;
+     border-radius: 20px;
+     display: flex;
+     justify-content: center;
+     border: 0;
+     background: #1d375efa;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
 }

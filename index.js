@@ -2,7 +2,7 @@ let balance = 0;
 let input = document.querySelector('input')
 let value = document.querySelector('span')
 let transactions = []
-let table = document.querySelector('table tbody')
+let table = document.querySelector('.container .card table tbody')
 
 let showAmount = () => {
     value.innerText = +balance;
